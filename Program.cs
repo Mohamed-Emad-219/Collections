@@ -36,6 +36,7 @@ namespace Collections
             return EvenOnly;
         }
         #endregion
+
         public static int FirstIndex(string D)
         {
             if (string.IsNullOrEmpty(D))
